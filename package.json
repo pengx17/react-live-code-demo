@@ -1,0 +1,28 @@
+{
+  "name": "vite-react-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@arco-design/web-react": "^2.26.0",
+    "@types/prettier": "^2.4.2",
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "dayjs": "^1.10.7",
+    "prettier": "^2.5.0",
+    "prism-react-renderer": "^1.2.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sucrase": "^3.20.3",
+    "use-editable": "^2.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.6.13",
+    "vite-plugin-windicss": "^1.5.4",
+    "windicss": "^3.2.1"
+  }
+}
