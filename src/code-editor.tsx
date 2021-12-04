@@ -46,7 +46,7 @@ export const CodeEditor = ({
         {...defaultProps}
         theme={lightTheme}
         code={value}
-        language="jsx"
+        language="tsx"
       >
         {({ className, style, tokens, getLineProps, getTokenProps }) => (
           <pre
