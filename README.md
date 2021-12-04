@@ -1,3 +1,5 @@
-# vitejs-vite-dt8sbb
+# React Live Code Demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-dt8sbb)
+## Credits
+
+Most of the idea brings from https://github.com/FormidableLabs/react-live, but simplified for my own use.
